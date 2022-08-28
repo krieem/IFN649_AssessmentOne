@@ -10,4 +10,4 @@
 2. Emiting leds upon receiving data
 
 
-*** For further information check out the included slides ***
+***For further information check out the included slides***
